@@ -1,5 +1,5 @@
 name: Publish Action
-description: "Publish the package"
+description: Publish the package (placeholder for upload logic)
 runs:
   using: "composite"
   steps:

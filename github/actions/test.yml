@@ -1,5 +1,5 @@
 name: Test Action
-description: "Run tests"
+description: Run tests for the application
 runs:
   using: "composite"
   steps:

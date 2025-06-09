@@ -1,5 +1,5 @@
 name: Cleanup Action
-description: "Cleanup after the build"
+description: Perform cleanup after the job
 runs:
   using: "composite"
   steps:

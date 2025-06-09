@@ -1,5 +1,5 @@
 name: Compile Action
-description: "Compile the application"
+description: Compile the application (no compilation needed for hello.sh)
 runs:
   using: "composite"
   steps:

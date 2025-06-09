@@ -1,7 +1,7 @@
 name: Package Action
-description: "Package the application"
+description: Package the application into a tar.gz file
 runs:
   using: "composite"
   steps:
-    - name: Create package
+    - name: Package application
       run: tar -cvzf hello.tar.gz hello.sh
