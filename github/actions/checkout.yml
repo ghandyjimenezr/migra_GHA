@@ -1,5 +1,5 @@
 name: Checkout Action
-description: "Checkout the source code from the repository"
+description: "Checkout the source code"
 runs:
   using: "composite"
   steps:
